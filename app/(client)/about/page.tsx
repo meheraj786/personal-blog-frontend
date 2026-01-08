@@ -18,7 +18,10 @@ export default function AboutPage() {
             <Link href="/about" className="text-sm font-medium text-primary">
               About
             </Link>
-            <Link href="/admin/login" className="text-sm font-medium hover:text-primary transition">
+            <Link
+              href="/admin/dashboard"
+              className="text-sm font-medium hover:text-primary transition"
+            >
               Admin
             </Link>
           </nav>

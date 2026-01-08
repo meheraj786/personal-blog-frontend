@@ -21,7 +21,7 @@ export default function HomePage() {
                 About
               </Link>
               <Button asChild variant="ghost" size="sm">
-                <Link href="/admin/login">Admin</Link>
+                <Link href="/admin/dashboard">Admin</Link>
               </Button>
             </div>
           </div>
